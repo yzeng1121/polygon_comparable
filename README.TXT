@@ -1,12 +1,17 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This was a project I created for my dual enrollment data structures 
+course in high school!
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Polygon Comparable Interface
+
+PURPOSE OF PROJECT: Application of knowledge of concrete classes, 
+interfaces, & abstract classes. Dynamically stores various polygons and 
+allows user queries.
+
+VERSION or DATE: December 2023
+
+AUTHOR: Yuxin Zeng
+
+USER INSTRUCTIONS: Run the main() in the Polygon_Comparable_CLIENT_SHELL.java 
+and have fun!

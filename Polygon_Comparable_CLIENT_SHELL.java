@@ -24,7 +24,7 @@ public class Polygon_Comparable_CLIENT_SHELL
     // **************************************************************************************************
     // *****************************************(MAIN) ************************************************
     // **************************************************************************************************    
-    public static void main()
+    public static void main(String[] args)
     {
         ArrayList polygonShapesList = new ArrayList<Polygon_Comparable>();
         
